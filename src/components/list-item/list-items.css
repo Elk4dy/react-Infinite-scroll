@@ -1,0 +1,26 @@
+.error {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.listing-page {
+  padding: 40px;
+}
+
+.item {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  border: 1px solid #DDD;
+}
+
+.item p {
+  width: 20%;
+}
+
+.item p:last-child {
+  width: 40%;
+}
+
